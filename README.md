@@ -1,5 +1,5 @@
-# JavaScript MiniSite Template
- ## Template For Building JS Minisites at Coder Foundry.
+#Hundo
+ ## Print numbers from 0 to 100
 
 Make sure to change the template to reflect your app. Follow these basic steps to make sure your app is ready to go. 
 
